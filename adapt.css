@@ -19,6 +19,7 @@ a {
 		width: 50%;
 		background-color: red;
 		color: grey;
+		text-decoration-line: underline;
 	}
 }
 @media (max-width: 1199px) and (min-width: 992px) {
